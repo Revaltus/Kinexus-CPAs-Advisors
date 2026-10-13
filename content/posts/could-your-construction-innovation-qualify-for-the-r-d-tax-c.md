@@ -79,7 +79,7 @@ What we ask construction clients to keep:
 4. **Payments.** Invoices from engineers and testing labs, with scope descriptions that match the research.
 5. **A short project summary.** One page per business component stating the goal, the uncertainty, the alternatives tried, and the outcome.
 
-This is easier when your books are already organized by job. If your job costing is solid, adding a research flag to a cost code costs almost nothing. If it is not, [construction accounting](/who-we-serve/construction) is the place to start before any credit study. Peter Williams (EA, MAcc) works with contractors on exactly this kind of job-level structure, and Shawn Gubler (CPA, CTC, MAcc) brings the advanced tax planning side.
+This is easier when your books are already organized by job. If your job costing is solid, adding a research flag to a cost code costs almost nothing. If it is not, [construction accounting](/who-we-serve/construction) is the place to start before any credit study. 
 
 A well-documented claim is also easier to defend. If the IRS sends questions, [audit protection](/what-we-do/audit-protection) means someone on our team handles the response rather than you.
 
