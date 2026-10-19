@@ -16,9 +16,9 @@ canonical_url: https://stgcpas.com/resources/cost-segregation-ready-closeouts-a-
 schema_markup: "Article"
 answer_block: "A cost-segregation-ready closeout package is a set of itemized project records, including a detailed schedule of values, change order scopes, subcontractor invoices, as-built drawings, and a site work breakdown, delivered at turnover. It lets the owner's study provider work from actual costs, which lowers fees and audit risk. For contractors, it is a practical way to win and keep developer clients."
 ---
-A developer in Washington County takes the keys to a new 24-unit apartment building. Within a month, their CPA asks the general contractor for something nobody planned for: a cost breakdown detailed enough to separate the cabinetry, the specialty electrical, the parking lot, and the site utilities from the building shell. The contractor has a final pay application, a stack of lien waivers, and a schedule of values with 40 lines on it. The developer's cost segregation provider needs 400. Weeks of back-and-forth follow, the study fee climbs, and the developer remembers who made it harder.
+A developer in St. George takes the keys to a new 24-unit apartment building. Within a month, their CPA asks the general contractor for something nobody planned for: a cost breakdown detailed enough to separate the cabinetry, the specialty electrical, the parking lot, and the site utilities from the building shell. The contractor has a final pay application, a stack of lien waivers, and a schedule of values with 40 lines on it. The developer's cost segregation provider needs 400. Weeks of back-and-forth follow, the study fee climbs, and the developer remembers who made it harder.
 
-That is the opening for a cost-segregation-ready closeout package. A contractor who hands over organized, itemized project records at turnover gives the owner a tax-saving asset, not just a finished building. Few contractors in St George do this, which makes it an easy way to stand out. This article covers what the package contains, how to build it into your workflow from preconstruction, how to position it, and why it raises the value of your company.
+That is the opening for a cost-segregation-ready closeout package. A contractor who hands over organized, itemized project records at turnover gives the owner a tax-saving asset, not just a finished building. Few contractors in Washington County do this, which makes it an easy way to stand out. This article covers what the package contains, how to build it into your workflow from preconstruction, how to position it, and why it raises the value of your company.
 
 ## Why developers care about your closeout documents
 
@@ -157,4 +157,4 @@ Lump-sum trade lines on the schedule of values, such as a single "Electrical" or
 
 ## Build the package before your next turnover
 
-If you build for developers in St George, Hurricane, or anywhere in Washington County, we can help you set up cost coding, a schedule of values format, and a closeout checklist that your project team can actually follow. [Contact Kinexus CPAs & Advisors](/contact) to talk through your next project before the first pay application goes out.
+If you build for developers in St George, or anywhere in Utah, we can help you set up cost coding, a schedule of values format, and a closeout checklist that your project team can actually follow. [Contact Kinexus CPAs & Advisors](/contact) to talk through your next project before the first pay application goes out.
