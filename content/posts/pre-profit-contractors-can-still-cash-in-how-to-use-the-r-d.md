@@ -17,146 +17,170 @@ schema_markup: "BlogPosting"
 answer_block: "Yes. A contractor with under $5 million in gross receipts and no receipts before the five-tax-year period ending with the current year can elect on Form 6765 to apply up to $500,000 of its federal R&D credit against employer payroll taxes. The credit first offsets employer Social Security tax (up to $250,000 per quarter), then employer Medicare tax. It is claimed quarterly on Form 8974 with Form 941, starting with the first quarter that begins after the income tax return is filed."
 faq_block: [{"question":"Can a contractor with no taxable profit still claim the R&D tax credit?","answer":"Yes. A qualified small business may elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes, even when it has no federal income tax liability. The business must satisfy the IRS gross-receipts and business-history requirements and conduct qualified research activities."},{"question":"Which payroll taxes can the R&D credit offset?","answer":"The credit first offsets the employer's 6.2% share of Social Security tax, subject to a $250,000-per-quarter limit. Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax. It cannot reduce employee payroll tax withholding or the additional 0.9% Medicare tax."},{"question":"When can a contractor begin using the payroll tax credit?","answer":"The credit becomes available in the first calendar quarter beginning after the business files its income tax return containing the Form 6765 payroll tax election. The business then claims the available credit using Form 8974 attached to its quarterly Form 941."},{"question":"Does a construction company need a research department to qualify?","answer":"No. The IRS does not require a dedicated research department or a particular job title. A contractor may qualify through engineering, material development, prototype testing, or improvements to construction processes, provided the activities meet the four-part research test."},{"question":"Can routine construction improvements qualify for the R&D credit?","answer":"Not necessarily. Routine construction work, standard quality-control testing, cosmetic changes, and ordinary modifications generally do not qualify. The business must demonstrate technical uncertainty and a process of experimentation intended to resolve that uncertainty."},{"question":"Can a contractor claim the R&D credit for work performed on a customer's project?","answer":"Potentially. However, the business must evaluate whether the research is funded by the customer or another party. The contractor's financial risk and rights to the research results are important considerations. Contract terms should be reviewed before including the associated expenses."},{"question":"Does the R&D tax credit require a profitable business?","answer":"No. A qualifying small business can use the payroll tax election even if it operates at a loss. However, it must generate an eligible research credit and have applicable employer payroll tax liabilities against which the credit can be applied."}]
 ---
-Imagine a framing contractor in St. George who hires eight carpenters and spends a year developing a prefabricated wall-panel system designed to withstand the challenges of 110-degree job sites. She tests adhesives, modifies the panel design three times, and works through several technical problems before finding a workable solution. Despite the investment, her company finishes the year with a tax loss.
+A construction company does not have to be profitable to benefit from the federal Research and Development (R&D) tax credit. In fact, qualifying contractors that are still building their businesses may be able to use the credit to reduce a significant operating expense: employer payroll taxes.
 
-She assumes the research and development (R&D) tax credit is unavailable because the business owes no federal income tax. That assumption could cost her money. Qualified small businesses can elect to apply part of the federal R&D credit against the employer's share of Social Security and Medicare payroll taxes, even in an unprofitable year. Here is what contractors need to know about eligibility, qualifying activities, documentation, and claiming the credit.
+The federal R&D tax credit, available under Internal Revenue Code Section 41, rewards businesses for qualifying research and development activities. For eligible small businesses, a special election allows a portion of that credit to be applied against employer payroll taxes rather than waiting until the business has enough income tax liability to use it.
 
-## Why a Business Can Claim the R&D Credit Even With a Tax Loss
+For contractors investing in new construction methods, materials, processes, or technology, this can provide valuable cash-flow relief during the early years of growth.
 
-The federal R&D tax credit, established under Internal Revenue Code Section 41, traditionally helps businesses reduce their federal income tax liability.
+## What Is the R&D Tax Credit?
 
-However, a business with little or no income tax liability may not be able to use the credit right away, though unused credits generally carry forward up to 20 years. The payroll tax election lets qualifying small businesses apply a portion of the credit against certain employer payroll taxes instead of waiting for taxable income.
+The federal R&D tax credit is designed to encourage businesses to develop or improve products, processes, techniques, formulas, or software. Despite its name, the credit is not limited to laboratories, technology companies, or traditional scientific research.
 
-**The important distinction:** A business does not have to be profitable to qualify for the payroll tax election. However, it must satisfy the IRS definition of a qualified small business and conduct activities that meet the requirements for qualified research.
+Construction companies may qualify when they undertake technical work to resolve uncertainty and develop an improved construction process or product.
 
-The payroll credit reduces eligible employer payroll tax obligations. It is not an unrestricted cash refund, and it cannot eliminate payroll taxes that belong to employees.
+For example, consider a contractor developing a prefabricated wall-panel system for projects in extreme heat. The company may need to experiment with different materials, assembly methods, insulation systems, and installation techniques to determine which approach will perform reliably under demanding conditions.
 
-## Who Qualifies as a Qualified Small Business?
+If the work meets the IRS requirements for qualified research, certain associated employee wages, materials, and contract research costs may count toward the R&D credit.
 
-A business must meet two tests to qualify for the payroll tax election.
+Routine construction work, ordinary problem-solving, and simply using established methods do not automatically qualify. The work must meet specific federal requirements.
 
-**1. Less than $5 million in gross receipts**
+## How Can Contractors Qualify for the R&D Credit?
 
-Gross receipts must be under $5 million for the year of the claim.
+The IRS applies a four-part test to determine whether an activity qualifies as research. The test must be applied separately to each business component being developed or improved.
 
-**2. A qualifying business history**
+The activity must meet all four requirements:
 
-The business cannot have had gross receipts in any tax year before the five-tax-year period ending with the current tax year. A contractor whose first receipts came in 2022 may qualify for 2025; one whose first receipts came in 2019 would not. Related entities under common control, and predecessors, may need to aggregate gross receipts. Tax-exempt organizations under Section 501 are excluded.
+- **Permitted purpose:** The research must relate to developing or improving a product, process, technique, formula, or software. The improvement must involve function, performance, reliability, or quality.
+- **Technological in nature:** The activity must rely on principles of physical or biological science, engineering, or computer science.
+- **Elimination of uncertainty:** The company must face uncertainty about the capability, method, or appropriate design for developing or improving the business component.
+- **Process of experimentation:** The company must evaluate alternatives through a systematic process, such as modeling, testing, simulation, or trial and error, to resolve the uncertainty.
 
-**How long can a business use the election?**
+## Examples of Potentially Qualifying Construction Activities
 
-A business can make the election for up to five tax years in total, and must satisfy the eligibility requirements independently each year.
+Depending on the facts and documentation, a contractor's research activities may include:
 
-## How Much Can Contractors Offset Through the Payroll Tax Credit?
+- Developing a new prefabrication process to improve installation efficiency or structural performance.
+- Testing alternative materials to address unusual environmental or load requirements.
+- Engineering a new building component when existing designs do not adequately resolve a technical challenge.
+- Experimenting with construction methods to improve durability, energy performance, or reliability.
+- Developing or improving software used to solve technical design, engineering, or construction-process challenges.
 
-For tax years beginning after December 31, 2022, a qualified small business can elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes.
+The key distinction is that the contractor must be trying to resolve a genuine technical uncertainty through experimentation. A project being complicated, expensive, or customized does not, by itself, make the work eligible.
 
-The credit is applied in the following order:
+## Which Expenses Can Count Toward the Credit?
 
-- **Employer Social Security tax:** The credit first offsets the employer's 6.2% share of Social Security tax, subject to a maximum offset of $250,000 per calendar quarter.
-- **Employer Medicare tax:** Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax for that quarter.
+The R&D credit is calculated using qualified research expenses (QREs). For contractors, the most relevant categories generally include:
 
-The $500,000 limit applies to the tax year, while the $250,000 Social Security limit applies to each quarter. The credit cannot offset employee payroll taxes, income tax withholding, or the additional 0.9% Medicare tax. Unused credit carries forward to later quarters.
+- **Employee wages:** Wages paid to employees who directly perform qualified research, directly supervise qualified research, or directly support qualified research may qualify. This can include engineers, project managers, estimators, carpenters, and other employees, but only to the extent their work meets the applicable requirements.
+- **Supplies:** Certain tangible supplies used or consumed in qualified research may qualify. Ordinary materials incorporated into a completed building or other finished product generally do not qualify simply because they were used on a project.
+- **Contract research:** A portion of payments to outside parties performing qualified research on the contractor's behalf may qualify. Generally, 65% of eligible contract research expenses may be included, subject to specific rules.
 
-## A Hypothetical Example for a St. George Design-Build Contractor
+The contractor must retain records showing what work was performed, who performed it, how much time was spent, and which expenses relate to the qualified research.
 
-Consider a fictional design-build contractor in Washington County, Utah. This example is not based on any actual client.
+## Using the R&D Credit Before the Business Is Profitable
 
-The company first generated gross receipts in 2022. In 2025 it had $2.8 million in revenue, a $60,000 tax loss, and $900,000 in W-2 wages, which produce about $68,850 in annual employer Social Security and Medicare taxes. Staff time and supplies spent developing a prefabricated wall-panel system total $360,000 in qualified research expenses. Under the Alternative Simplified Credit method, with no qualified research expenses in the prior three years, the credit is 6% of $360,000, or $21,600. That assumes no reduced-credit election under Section 280C, which would cut it to $17,064.
+The standard R&D credit is generally a general business credit that offsets income tax liability, subject to applicable limitations. A business with little or no income tax liability may not be able to use the credit immediately.
 
-The company files its original 2025 return in March 2026 with the Form 6765 election, so the first eligible quarter is Q2 2026. The credit offsets $17,212.50 of employer payroll tax in Q2 and the remaining $4,387.50 in Q3, reducing payroll taxes by $21,600 despite the loss. The example is illustrative; actual results depend on the research, expenses, and payroll records.
+However, an eligible small business may elect to apply up to $500,000 of its R&D credit annually against employer payroll taxes. This is known as the qualified small business payroll tax credit election under Section 41(h).
 
-## What Construction Activities Can Qualify for the R&D Tax Credit?
+This option can be especially valuable for contractors that are investing in research and development while operating at a loss or reinvesting earnings into business growth.
 
-Contractors often overlook R&D because they associate it with laboratories, but the credit is not limited to any industry. A construction business may qualify when it develops or improves a product, process, or technique and meets the four-part test:
+Rather than waiting for future income tax liability, an eligible contractor can use the elected credit to reduce certain employer payroll tax obligations.
 
-- **Permitted purpose:** The research must relate to developing a new or improved business component, such as a product, process, technique, or formula, with the objective of improving its functionality, performance, quality, or reliability.
-- **Technological in nature:** The research must rely on principles of engineering, physics, chemistry, biology, or computer science.
-- **Elimination of uncertainty:** The business must encounter technological uncertainty regarding the capability, method, or appropriate design of the component.
-- **Process of experimentation:** The business must evaluate alternatives, conduct testing, analyze results, or otherwise use a systematic process to resolve the technical uncertainty.
+## Who Qualifies for the Payroll Tax Election?
 
-The test applies separately to each business component. Examples:
+A business generally must meet the IRS definition of a qualified small business (QSB). The primary requirements include:
 
-| Construction activity | Potential eligibility | Explanation |
-|---|---|---|
-| Developing a new prefabricated or modular assembly method | Often yes | May involve technical uncertainty, prototype development, and repeated testing |
-| Testing concrete mixes, adhesives, sealants, or stucco systems for extreme heat and UV exposure | Often yes | May involve experimentation to establish material performance |
-| Following established construction plans and specifications | Generally no | Routine construction does not establish qualified research |
-| Performing routine quality control or standard material testing | Generally no | Routine testing is specifically excluded |
+- **Gross receipts:** The business must have less than $5 million in gross receipts for the current tax year.
+- **Business history:** The business must not have had gross receipts before the five-tax-year period ending with the current tax year.
+- **Qualified research:** The business must generate a qualifying R&D credit under Section 41.
+- **Election history:** The business cannot make the payroll tax election if it has made the election for five or more preceding tax years.
 
-**Key exclusions:** research after commercial production begins, adapting an existing product to a customer's requirements, duplication, routine data collection, certain internal-use software, research outside the United States, and research funded by another party.
+The IRS has additional rules for determining gross receipts, predecessor businesses, controlled groups, and businesses under common control. Related entities may need to be considered together when determining eligibility.
 
-**Customer-funded research:** Work may be excluded if a customer funds it. The answer depends on contract terms, including who bears the financial risk if the research fails and who keeps substantial rights to the results. Have agreements reviewed before including these expenses.
+The payroll tax election is not limited to businesses operating at a loss. It is available to qualifying small businesses that meet the requirements, whether or not they are profitable.
 
-## What Expenses Can Be Included in the R&D Credit?
+## How Much Payroll Tax Can the Credit Offset?
 
-Qualified research expenses generally fall into three categories:
+For tax years beginning after December 31, 2022, a qualified small business may elect to apply up to $500,000 of its R&D credit against payroll taxes.
 
-- **Employee wages:** Pay for the portion of time employees directly perform, supervise, or support qualified research, such as a carpenter building and testing a prototype. General project management, administration, estimating, and ordinary construction labor do not automatically qualify.
-- **Supplies and materials:** Tangible supplies consumed in prototype development and testing, such as adhesives or concrete mixtures. Materials built into a customer's completed building generally do not qualify.
-- **Contract research:** Generally 65% of amounts paid to outside engineers or contractors for qualified research, provided the agreement, financial risk, research rights, and location of the work qualify.
+The credit is applied in a specific order:
 
-## Documentation That Supports Your R&D Credit
+- It first offsets the employer's share of Social Security tax, up to $250,000 per calendar quarter.
+- Any remaining available credit can then offset the employer's share of Medicare tax for that quarter.
+- Any unused credit carries forward to a subsequent quarter.
 
-The IRS requires records that substantiate qualified research activities and expenses. Most contractors already have many of them in their job-costing and payroll systems; the challenge is connecting them to the research claimed. Key records include:
+The credit cannot be used to offset employee payroll tax withholding, the employee's share of Social Security or Medicare taxes, or federal income tax withholding.
 
-- Project names and descriptions identifying the technical challenge being addressed.
-- Engineering drawings, sketches, design revisions, and prototypes.
-- Testing procedures, results, and documentation of unsuccessful attempts.
-- Employee payroll records and reasonable documentation of time spent performing qualified research.
-- Contracts and agreements identifying financial risk and ownership rights.
-- Documentation explaining the technical uncertainty and how the company evaluated potential solutions.
+The $500,000 annual election limit is not a guaranteed refund or automatic reduction in payroll costs. The amount a business can actually use depends on its allowable R&D credit and its eligible employer payroll tax liabilities.
 
-A practical step is to set up project codes in your job-costing system for experimental work, which separates qualifying expenses from ordinary construction costs.
+## Example: A Contractor Using the R&D Credit During a Loss Year
 
-## The Forms and Timing: How Contractors Claim the Credit
+Consider a contractor with eight employees who is developing a prefabricated wall-panel system designed to improve installation and performance in extreme job-site temperatures.
 
-**Step 1: Calculate the research credit using Form 6765.**
+The contractor experiments with different materials, panel configurations, and assembly methods to address technical uncertainties that existing approaches do not resolve. Some of the employees spend time testing prototypes, evaluating results, and refining the process.
 
-Calculate the credit on IRS [Form 6765](https://www.irs.gov/forms-pubs/about-form-6765) and complete Section D to elect the payroll tax offset. Partnerships and S corporations elect at the entity level; other structures generally complete Form 3800 first.
+Assume the contractor has:
 
-**Step 2: Make the payroll tax election on the original tax return.**
+- $900,000 in annual employee wages.
+- $360,000 in expenses determined to be qualified research expenses.
+- A calculated R&D credit of $21,600.
+- No current income tax liability because the business is operating at a loss.
 
-The election must be made on a timely filed original return, including extensions, and cannot be made for the first time on an amended return. It specifies the amount applied to payroll taxes, up to $500,000, and generally cannot be revoked without IRS consent.
+For illustration, if the contractor qualifies for the payroll tax election and makes the election properly, the $21,600 credit may be applied against eligible employer payroll taxes rather than being limited to an income tax benefit.
 
-**Step 3: Begin applying the credit after filing the income tax return.**
+The contractor does not need to wait until it becomes profitable to benefit from the credit. Instead, the credit can help reduce employer payroll tax obligations after the required election and filing steps are completed.
 
-The payroll tax credit becomes available beginning with the first calendar quarter that starts after the business files the income tax return containing the election.
+Actual credit calculations depend on the company's qualified research expenses, credit method, tax history, and applicable limitations. The example is illustrative, not a calculation of a particular contractor's credit.
 
-For example:
+## How Does a Contractor Claim the Payroll Tax Credit?
 
-- **Income tax return filed March 2026:** First eligible quarter is Q2 2026.
-- **Income tax return filed October 2026:** First eligible quarter is Q1 2027.
+Claiming the credit involves both the business income tax return and the employer's payroll tax filings.
 
-**Step 4: Claim the credit on Form 8974 and Form 941.**
+**1. Identify and document qualified research.**
 
-Complete IRS [Form 8974](https://www.irs.gov/forms-pubs/about-form-8974) and attach it to the quarterly Form 941. The credit first reduces employer Social Security tax (up to $250,000 per quarter), then employer Medicare tax, and any unused balance carries forward.
+The contractor should identify each potential research activity and document the technical uncertainty, alternatives considered, experimentation performed, results, employee involvement, and related expenses.
 
-## Another Important Tax Change: Section 174A and Domestic Research Expenses
+**2. Calculate the R&D credit.**
 
-The One Big Beautiful Bill Act, enacted July 4, 2025, added Section 174A, which restores current deduction of domestic research and experimental expenses for tax years beginning after December 31, 2024. Businesses may instead elect to amortize them over at least 60 months. Foreign research remains subject to 15-year amortization.
+The business calculates its credit using the applicable method and completes IRS Form 6765, Credit for Increasing Research Activities.
 
-Remaining unamortized domestic balances from 2022 through 2024 can generally be deducted in full in the first tax year beginning after 2024, or ratably over the first two. The retroactive election available to certain small businesses expired July 6, 2026.
+**3. Make the payroll tax election.**
 
-The research deduction and the R&D credit are separate benefits coordinated under Section 280C, so evaluate them together.
+The qualified small business must make the election on Form 6765 attached to its timely filed original federal income tax return, including extensions. The election must be made by the return's due date, including extensions.
 
-**An important distinction:** Not every expense deductible under Section 174A automatically qualifies for the Section 41 research credit. The research must independently satisfy the applicable qualified research requirements.
+**4. Apply the credit to payroll taxes.**
 
-## Why St. George Contractors Should Evaluate the R&D Credit
+After the income tax return containing the election is filed, the credit generally becomes available beginning with the first calendar quarter that starts after the filing date. The employer uses Form 8974, Qualified Small Business Payroll Tax Credit for Increasing Research Activities, to determine the amount available for the quarter.
 
-Extreme summer heat, expansive soils, challenging terrain, energy-efficiency requirements, and growing use of prefabrication create technical challenges in Southern Utah that can require real experimentation. The credit is not limited to large companies or those with research departments; a smaller contractor may qualify if the activities meet IRS requirements and the expenses can be substantiated.
+The credit is then reported on the appropriate employment tax return, such as Form 941 for quarterly filers.
 
-Peter Williams, EA, MAcc, works with contractors on financial reporting, work-in-progress schedules, and percentage-of-completion accounting. Identifying research-related costs within those financial records can help contractors recognize potential tax-planning opportunities they might otherwise overlook.
+The timing matters. A contractor should not simply reduce payroll tax deposits before confirming that the election has been properly made and the credit is available for use.
 
-The key is recognizing qualifying activities early enough to document them properly and incorporate them into the company's tax planning.
+## What Records Should Contractors Keep?
 
-## Determine Whether Your Construction Business Qualifies for the R&D Credit
+Documentation is essential. A contractor should be able to demonstrate not only that research occurred, but also how the activities satisfy the IRS requirements and how the claimed expenses relate to that work.
 
-If you operate a construction company in St. George or throughout Southern Utah, your investments in new construction methods, materials, and technical solutions may create opportunities for federal R&D tax credits.
+Useful records may include:
 
-Kinexus CPAs & Advisors can help evaluate your business activities, review your job-costing and payroll records, and determine whether pursuing the R&D tax credit makes financial sense.
+- Project descriptions identifying the technical challenge or uncertainty.
+- Engineering notes, drawings, designs, and specifications.
+- Prototype and testing records.
+- Records of alternatives evaluated and changes made.
+- Employee time records and job descriptions.
+- Payroll reports supporting qualified wage calculations.
+- Invoices and documentation for research supplies and outside contractors.
 
-[Contact Kinexus CPAs & Advisors](/contact) to discuss an R&D credit eligibility review and identify potential tax savings for your construction business.
+Good documentation should be created and maintained as the work takes place. Reconstructing research activities and employee time long after a project is completed can make it more difficult to support a claim.
+
+## What Contractors Should Know Before Claiming the Credit
+
+Not every construction innovation qualifies, and the R&D credit should not be treated as an automatic benefit for every project involving new materials, custom designs, or challenging conditions.
+
+Contract terms also matter. Who bears the financial risk of the research and who retains substantial rights to the research results can affect eligibility. A contractor performing work for a customer should have the arrangement reviewed rather than assuming that the contractor or customer automatically owns the credit.
+
+There are also rules coordinating the R&D credit with deductions for research expenses. For tax years beginning after December 31, 2024, Section 174A generally permits immediate deduction of qualifying domestic research or experimental expenditures, with an option to capitalize and amortize them. The Section 280C rules must also be considered when calculating the credit and related deductions.
+
+Because these rules can affect the tax benefit, contractors should have their research activities, contracts, expenses, and tax filings reviewed by a tax professional familiar with the R&D credit.
+
+## Turn Research and Development Into a Business Advantage
+
+For contractors investing in new construction methods, materials, and technical solutions, the R&D tax credit may offer more than a future income tax benefit. An eligible small business may be able to use the credit to reduce employer payroll taxes while it is still growing and building profitability.
+
+The opportunity starts with identifying qualifying research, documenting the work, and accurately calculating the credit. A CPA familiar with construction and the R&D tax credit can help determine whether a contractor's activities qualify, evaluate the payroll tax election, and coordinate the credit with the company's broader tax strategy.
+
+The result may be an opportunity to turn qualifying innovation into meaningful cash-flow support, before the business ever reports a profit.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
