@@ -182,6 +182,8 @@ The opportunity starts with identifying qualifying research, documenting the wor
 
 The result may be an opportunity to turn qualifying innovation into meaningful cash-flow support, before the business ever reports a profit.
 
+Ready to find out whether your research qualifies? [Contact Kinexus CPAs & Advisors](/contact) to book an R&D credit review with a team that understands construction and year-round tax planning.
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
 
