@@ -17,11 +17,11 @@ schema_markup: "BlogPosting"
 answer_block: "Yes. A contractor with under $5 million in gross receipts and no receipts before the five-tax-year period ending with the current year can elect on Form 6765 to apply up to $500,000 of its federal R&D credit against employer payroll taxes. The credit first offsets employer Social Security tax (up to $250,000 per quarter), then employer Medicare tax. It is claimed quarterly on Form 8974 with Form 941, starting with the first quarter that begins after the income tax return is filed."
 faq_block: [{"question":"Can a contractor with no taxable profit still claim the R&D tax credit?","answer":"Yes. A qualified small business may elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes, even when it has no federal income tax liability. The business must satisfy the IRS gross-receipts and business-history requirements and conduct qualified research activities."},{"question":"Which payroll taxes can the R&D credit offset?","answer":"The credit first offsets the employer's 6.2% share of Social Security tax, subject to a $250,000-per-quarter limit. Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax. It cannot reduce employee payroll tax withholding or the additional 0.9% Medicare tax."},{"question":"When can a contractor begin using the payroll tax credit?","answer":"The credit becomes available in the first calendar quarter beginning after the business files its income tax return containing the Form 6765 payroll tax election. The business then claims the available credit using Form 8974 attached to its quarterly Form 941."},{"question":"Does a construction company need a research department to qualify?","answer":"No. The IRS does not require a dedicated research department or a particular job title. A contractor may qualify through engineering, material development, prototype testing, or improvements to construction processes, provided the activities meet the four-part research test."},{"question":"Can routine construction improvements qualify for the R&D credit?","answer":"Not necessarily. Routine construction work, standard quality-control testing, cosmetic changes, and ordinary modifications generally do not qualify. The business must demonstrate technical uncertainty and a process of experimentation intended to resolve that uncertainty."},{"question":"Can a contractor claim the R&D credit for work performed on a customer's project?","answer":"Potentially. However, the business must evaluate whether the research is funded by the customer or another party. The contractor's financial risk and rights to the research results are important considerations. Contract terms should be reviewed before including the associated expenses."},{"question":"Does the R&D tax credit require a profitable business?","answer":"No. A qualifying small business can use the payroll tax election even if it operates at a loss. However, it must generate an eligible research credit and have applicable employer payroll tax liabilities against which the credit can be applied."}]
 ---
-A framing contractor in St. George hires eight carpenters and spends a year developing a prefabricated wall-panel system designed to withstand the challenges of 110-degree job sites. She tests adhesives, modifies the panel design three times, and works through several technical problems before finding a workable solution. Despite the investment, her company finishes the year with a tax loss.
+Imagine a hypothetical framing contractor in St. George who hires eight carpenters and spends a year developing a prefabricated wall-panel system designed to withstand the challenges of 110-degree job sites. She tests adhesives, modifies the panel design three times, and works through several technical problems before finding a workable solution. Despite the investment, her company finishes the year with a tax loss.
 
-Her bookkeeper tells her the research and development (R&D) tax credit is unavailable because the business owes no federal income tax.
+Now suppose she assumes the research and development (R&D) tax credit is unavailable because the business owes no federal income tax. This is a common misconception.
 
-That advice may be costing her money.
+That assumption could cost her money.
 
 Under federal tax law, certain qualified small businesses can elect to apply a portion of their federal R&D tax credit against the employer's share of Social Security and Medicare payroll taxes. This provision can benefit qualifying startup businesses that are investing in research and development but have little or no income tax liability.
 
@@ -92,9 +92,9 @@ The actual benefit depends on the qualified research credit generated, the amoun
 
 Any unused payroll tax credit carries forward to subsequent quarters.
 
-## A Practical Example for a St. George Design-Build Contractor
+## A Hypothetical Example for a St. George Design-Build Contractor
 
-Consider a hypothetical design-build contractor in Washington County, Utah.
+Consider a fictional design-build contractor in Washington County, Utah. This example is not based on any actual client.
 
 The company first generated gross receipts in 2022. During 2025, it generated $2.8 million in revenue but reported a $60,000 tax loss.
 
