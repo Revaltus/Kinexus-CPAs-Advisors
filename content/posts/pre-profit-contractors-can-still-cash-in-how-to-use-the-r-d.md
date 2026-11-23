@@ -87,12 +87,12 @@ The cleanest approach is to set up a simple project code in your job costing sys
 
 ## The forms and timing, step by step
 
-1. **Calculate the credit on Form 6765.** The payroll election is made in Section D of [Form 6765](https://www.irs.gov/forms-pubs/about-form-6765), attached to a timely filed income tax return, including extensions. It cannot be made on an amended return, so the first filing has to include it.
+1. **Calculate the credit on Form 6765.** The payroll election is made in the payroll tax election section of [Form 6765](https://www.irs.gov/forms-pubs/about-form-6765), attached to a timely filed income tax return, including extensions. It cannot be made on an amended return, so the first filing has to include it.
 2. **Specify the amount.** You elect a dollar amount up to the lesser of the credit and the $500,000 cap. Any credit you do not elect carries forward for use against income tax later.
-3. **File Form 8974 each quarter.** Attach [Form 8974](https://www.irs.gov/forms-pubs/about-form-8974) to your Form 941 for every quarter you apply the credit. It calculates how much you can use that quarter, limited by your employer Social Security tax (and Medicare tax once the first $250,000 bucket is used).
+3. **File Form 8974 each quarter.** Attach [Form 8974](https://www.irs.gov/forms-pubs/about-form-8974) to your Form 941 for every quarter you apply the credit. It calculates how much you can use that quarter, limited by your employer Social Security tax for that quarter. Any credit left over can then be applied against that quarter's employer Medicare tax, up to the separate $250,000 Medicare limit.
 4. **Start in the right quarter.** The credit applies beginning with the first quarter that starts after your income tax return is filed. File in March and Q2 is your first quarter. File on extension in October and the first benefit may not arrive until January.
 
-That last point is why timing matters. A contractor who files early on a loss year can begin recovering cash six months sooner than one who waits until the extension deadline. The rules for deducting research costs also changed for 2025, so we model the income tax side alongside the credit, rather than treating the credit in isolation. Our [business tax planning](/what-we-do/business-tax) work covers both.
+That last point is why timing matters. A contractor who files early on a loss year can begin recovering cash six months sooner than one who waits until the extension deadline. The deduction rules for research costs also changed. Under new Section 174A, domestic research expenses can again be deducted in the year they are incurred for tax years beginning after December 31, 2024, instead of being amortized over five years. Foreign research is still amortized over 15 years, and the credit can interact with the deduction through the Section 280C rules. Some smaller businesses can also elect to apply the change to earlier years. We model the income tax side alongside the credit rather than treating the credit in isolation. Our [business tax planning](/what-we-do/business-tax) work covers both.
 
 ## Where this fits for St George contractors
 
