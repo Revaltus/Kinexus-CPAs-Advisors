@@ -91,49 +91,165 @@ The actual benefit depends on the qualified research credit generated, the amoun
 
 Any unused payroll tax credit carries forward to subsequent quarters.
 
-## A worked example for a St George design-build contractor
+## A Practical Example for a St. George Design-Build Contractor
 
-Here is a hypothetical, using round numbers. A design-build firm in Washington County had its first receipts in 2022. In 2025 it billed $2.8 million and posted a $60,000 loss. Total W-2 wages were $900,000, so employer Social Security tax runs about $55,800 a year, or roughly $13,950 a quarter.
+Consider a hypothetical design-build contractor in Washington County, Utah.
 
-During the year, a project manager, a lead carpenter, and an estimator spent a meaningful share of their time developing and testing a prefabricated panel system. After sorting out which wages and supplies qualify, the firm documents $360,000 of qualified research expenses. A company with no qualifying spending in the prior three years can use the alternative simplified method, which is 6 percent of current-year qualified spending. The credit is $21,600.
+The company first generated gross receipts in 2022. During 2025, it generated $2.8 million in revenue but reported a $60,000 tax loss.
 
-The firm files its 2025 return in March 2026 with the payroll election made on Form 6765. The credit starts working in the first quarter that begins after the return is filed, which is the quarter starting April 1. Here is how it plays out:
+The company paid $900,000 in W-2 wages during the year. Assuming all employees remained below the applicable 2025 Social Security wage base, its estimated annual employer payroll taxes were:
 
-| Quarter | Employer Social Security tax | Credit applied | Credit remaining |
+- **Employer Social Security tax:** $55,800
+- **Employer Medicare tax:** $13,050
+- **Total employer Social Security and Medicare taxes:** $68,850
+
+During the year, a project manager, lead carpenter, and estimator devoted portions of their time to developing and testing a prefabricated wall-panel system.
+
+After reviewing the activities, employee wages, qualifying supplies, and supporting documentation, the company determines that it has $360,000 in qualified research expenses.
+
+Assume the company had no qualified research expenses in any of the three preceding tax years and qualifies to use the Alternative Simplified Credit (ASC) method.
+
+Under the ASC method, when a business has no qualified research expenses in any one of the three preceding tax years, the credit calculation generally uses 6% of current-year qualified research expenses.
+
+The calculation would be:
+
+- **Qualified research expenses:** $360,000
+- **Applicable credit percentage:** 6%
+- **Estimated federal R&D tax credit:** $21,600
+
+This calculation assumes the company does not elect the reduced credit under Section 280C. Instead, it must reduce its otherwise deductible or capitalized domestic research expenses by the applicable credit amount under Section 174A.
+
+Alternatively, the company could elect the reduced credit under Section 280C. That would reduce the $21,600 credit to $17,064 (79% of the calculated credit), without the corresponding Section 174A deduction reduction required when the reduced-credit election is not made.
+
+The company files its original 2025 federal income tax return in March 2026 and makes the payroll tax credit election on Form 6765.
+
+Because the return was filed before April 1, the first eligible payroll tax quarter is Q2 2026.
+
+For illustration, assume employer payroll taxes are evenly distributed throughout the year:
+
+| Quarter | Employer Social Security | Employer Medicare | Credit applied |
 |---|---|---|---|
-| Q2 2026 | $13,950 | $13,950 | $7,650 |
-| Q3 2026 | $13,950 | $7,650 | $0 |
+| Q2 2026 | $13,950 | $3,262.50 | $17,212.50 |
+| Q3 2026 | $13,950 | $3,262.50 | $4,387.50 |
+| Total | $27,900 | $6,525 | $21,600 |
 
-The Q2 Social Security liability on Form 941 drops to zero, and Q3 drops by $7,650. That is $21,600 of cash that stays in the business, from a year that showed a loss on paper. The figures are illustrative, and your own number depends on what your records support.
+The credit first eliminates the Q2 employer Social Security liability and then the employer Medicare liability. The remaining $4,387.50 reduces the Q3 employer Social Security liability.
 
-## Contractor activities that can qualify
+The result is $21,600 in reduced employer payroll tax obligations, even though the business reported a tax loss for 2025.
 
-Research credit qualification rests on a four-part test: a permitted purpose (a new or improved product, process, or technique), work that is technological in nature, an effort to eliminate real uncertainty about capability or method, and a process of experimentation. Construction fits this better than most owners assume. It also has a few exclusions that catch people out.
+This example is illustrative. Actual credit calculations depend on the research activities, qualified expenses, tax-credit methodology, Section 280C election, payroll records, and available employer payroll tax liabilities.
 
-| Activity | Usually qualifies? | Why |
+## What Construction Activities Can Qualify for the R&D Tax Credit?
+
+Construction companies often overlook research and development opportunities because they associate R&D with laboratories, scientists, and manufacturing facilities.
+
+However, the IRS does not limit the research credit to a particular industry.
+
+A construction business may qualify when it develops or improves a product, process, technique, or other business component and meets the IRS's four-part test.
+
+The four requirements are:
+
+- **Permitted purpose:** The research must relate to developing a new or improved business component, such as a product, process, technique, or formula, with the objective of improving its functionality, performance, quality, or reliability.
+- **Technological in nature:** The research must rely on principles of engineering, physics, chemistry, biology, or computer science.
+- **Elimination of uncertainty:** The business must encounter technological uncertainty regarding the capability, method, or appropriate design of the component.
+- **Process of experimentation:** The business must evaluate alternatives, conduct testing, analyze results, or otherwise use a systematic process to resolve the technical uncertainty.
+
+The four-part test must be applied separately to each business component being considered for the credit.
+
+Here are examples of construction activities that may qualify:
+
+| Construction activity | Potential eligibility | Explanation |
 |---|---|---|
-| Developing a new prefab or modular assembly method and testing it against failure | Often yes | Technical uncertainty and iterative testing |
-| Testing concrete mixes, stucco systems, sealants, or adhesives for high heat and UV exposure | Often yes | Materials testing with documented trials |
-| Design-build process work that solves a structural or sequencing problem with no known answer | Sometimes | Depends on whether uncertainty and experimentation are documented |
-| Building BIM workflows, estimating automation, or drone-based site tools | Sometimes | Software built for internal use faces a higher bar |
-| Following plans and specs on a standard job | No | Routine work with no uncertainty |
-| Cosmetic or style changes, or research done after the product is in commercial use | No | Statutory exclusions |
+| Developing a new prefabricated or modular assembly method | Often yes | May involve technical uncertainty, prototype development, and repeated testing |
+| Testing concrete mixes, adhesives, sealants, or stucco systems for extreme heat and UV exposure | Often yes | May involve experimentation to establish material performance |
+| Developing a new structural design or engineering solution for challenging soil conditions | Potentially | Must involve unresolved technical uncertainty and experimentation |
+| Developing a new construction sequencing or installation process to overcome an engineering challenge | Potentially | Must go beyond routine scheduling or project management |
+| Developing new BIM-related software or technical automation tools | Potentially | Must meet the applicable software and research requirements |
+| Following established construction plans and specifications | Generally no | Routine construction does not establish qualified research |
+| Making cosmetic or aesthetic changes to a building design | Generally no | Aesthetic improvements alone do not meet the research requirements |
+| Performing routine quality control or standard material testing | Generally no | Routine testing is specifically excluded |
 
-One exclusion deserves special attention. If a customer pays you to solve a problem and you do not bear the financial risk or keep rights to the results, the work may be treated as funded research and fall outside the credit. A contract for a fixed-price design-build job reads very differently from a cost-plus engineering arrangement, so we read the contract before counting any wages. For a deeper look at the four-part test, see our article on [whether your construction innovation qualifies for the R&D tax credit](/resources/could-your-construction-innovation-qualify-for-the-r-d-tax-c).
+**Important research exclusions**
 
-## Documentation that holds up
+Even when a project involves innovation, certain activities are specifically excluded from the federal R&D credit.
 
-The credit is only as strong as the paper behind it. Contractors have an advantage here because jobs already generate records, but those records need to be pointed at the right questions.
+These include:
 
-The files worth keeping:
+- Research conducted after the beginning of commercial production.
+- Adapting an existing product or process to a particular customer's requirements.
+- Duplicating an existing product or process.
+- Routine data collection, surveys, and studies.
+- Certain research involving internal-use computer software that does not meet the additional requirements.
+- Research conducted outside the United States and its territories.
+- Research in the social sciences, arts, or humanities.
+- Research funded by another person or governmental entity.
 
-- Job or project names tied to each experimental effort, with start and end dates.
-- Notes, sketches, test results, and failed attempts. Failures are evidence of experimentation.
-- Time records or a reasonable allocation for each person who worked on qualified activities.
-- Invoices for materials consumed in testing, kept separate from materials installed on a client's building.
-- Contracts showing who bore the financial risk and who owns the result.
+**An important consideration: Customer-funded research**
 
-The cleanest approach is to set up a simple project code in your job costing system for experimental work. It costs nothing, and it turns a reconstruction exercise next March into a report you can pull. This is where bookkeeping and tax planning overlap, and it is one reason we like to see a contractor's job costing before the year ends, not after.
+Contractors must also evaluate whether their research is funded by another party.
+
+Research may be excluded if a customer or another party funds the work. The determination depends on the contractual arrangement, including who bears the financial risk if the research is unsuccessful and who retains substantial rights to the research results.
+
+A fixed-price contract does not automatically qualify, nor does a cost-plus arrangement automatically disqualify the work. The actual contract terms and economic circumstances matter.
+
+Contractors should have their agreements reviewed before including customer-related research expenses in an R&D credit calculation.
+
+## What Expenses Can Be Included in the R&D Credit?
+
+Identifying qualifying activities is only part of the process. Contractors must also identify the expenses directly associated with those activities.
+
+Qualified research expenses generally fall into three primary categories, with certain computer rental or lease costs also potentially eligible.
+
+**1. Employee wages**
+
+Eligible wages may include compensation paid to employees who directly perform qualified research, directly supervise qualified research, or directly support qualified research.
+
+For example, a carpenter building and testing a new prototype wall assembly may have qualifying wages attributable to that work.
+
+A project manager who directly supervises the technical experimentation may also have qualifying wages.
+
+However, general project management, administrative duties, estimating, and ordinary construction labor do not automatically qualify.
+
+Only the portion of compensation attributable to qualified services should be included. The applicable tax definition of qualified wages must also be satisfied.
+
+**2. Supplies and materials**
+
+Certain tangible supplies used directly in qualified research may qualify.
+
+For example, adhesives, insulation, concrete mixtures, framing materials, or other supplies consumed during prototype development and testing may be eligible.
+
+Materials incorporated into a customer's completed building or used for routine construction generally do not qualify simply because they are part of an innovative project.
+
+**3. Contract research expenses**
+
+Certain amounts paid to outside contractors or engineering professionals for qualified research may qualify.
+
+Generally, 65% of eligible contract research expenses can be included in the credit calculation. A higher percentage may apply to certain qualified research consortium payments.
+
+The contractor must evaluate the agreement, financial risk, research rights, and location of the research activities.
+
+## Documentation That Supports Your R&D Credit
+
+The IRS requires businesses claiming the R&D credit to retain records that substantiate their qualified research activities and expenses.
+
+Construction companies often already have many of these records through their project management, payroll, and job-costing systems. The challenge is connecting those records to the specific research activities being claimed.
+
+Important records include:
+
+- Project names and descriptions identifying the technical challenge being addressed.
+- Project start and completion dates.
+- Engineering drawings, sketches, design revisions, and prototypes.
+- Testing procedures, results, and documentation of unsuccessful attempts.
+- Employee payroll records and reasonable documentation of time spent performing qualified research.
+- Invoices and receipts for research-related materials and supplies.
+- Contracts and agreements identifying financial risk and ownership rights.
+- Documentation explaining the technical uncertainty and how the company evaluated potential solutions.
+
+A practical approach is to establish project codes in your job-costing system for experimental development activities.
+
+This helps separate qualifying research expenses from ordinary construction costs and makes it easier to substantiate the credit when preparing the tax return.
+
+Good bookkeeping is not a substitute for a qualified R&D study, but it can make identifying and supporting eligible expenses considerably easier.
 
 ## The forms and timing, step by step
 
