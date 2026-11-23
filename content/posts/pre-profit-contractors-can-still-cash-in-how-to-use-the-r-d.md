@@ -15,6 +15,7 @@ secondary_keywords: ["R&D tax credit for contractors", "qualified small business
 canonical_url: https://stgcpas.com/resources/pre-profit-contractors-can-still-cash-in-how-to-use-the-r-d
 schema_markup: "BlogPosting"
 answer_block: "Yes. A contractor with under $5 million in gross receipts and no receipts before the five-tax-year period ending with the current year can elect on Form 6765 to apply up to $500,000 of its federal R&D credit against employer payroll taxes. The credit first offsets employer Social Security tax (up to $250,000 per quarter), then employer Medicare tax. It is claimed quarterly on Form 8974 with Form 941, starting with the first quarter that begins after the income tax return is filed."
+faq_block: [{"question":"Can a contractor with no taxable profit still claim the R&D tax credit?","answer":"Yes. A qualified small business may elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes, even when it has no federal income tax liability. The business must satisfy the IRS gross-receipts and business-history requirements and conduct qualified research activities."},{"question":"Which payroll taxes can the R&D credit offset?","answer":"The credit first offsets the employer's 6.2% share of Social Security tax, subject to a $250,000-per-quarter limit. Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax. It cannot reduce employee payroll tax withholding or the additional 0.9% Medicare tax."},{"question":"When can a contractor begin using the payroll tax credit?","answer":"The credit becomes available in the first calendar quarter beginning after the business files its income tax return containing the Form 6765 payroll tax election. The business then claims the available credit using Form 8974 attached to its quarterly Form 941."},{"question":"Does a construction company need a research department to qualify?","answer":"No. The IRS does not require a dedicated research department or a particular job title. A contractor may qualify through engineering, material development, prototype testing, or improvements to construction processes, provided the activities meet the four-part research test."},{"question":"Can routine construction improvements qualify for the R&D credit?","answer":"Not necessarily. Routine construction work, standard quality-control testing, cosmetic changes, and ordinary modifications generally do not qualify. The business must demonstrate technical uncertainty and a process of experimentation intended to resolve that uncertainty."},{"question":"Can a contractor claim the R&D credit for work performed on a customer's project?","answer":"Potentially. However, the business must evaluate whether the research is funded by the customer or another party. The contractor's financial risk and rights to the research results are important considerations. Contract terms should be reviewed before including the associated expenses."},{"question":"Does the R&D tax credit require a profitable business?","answer":"No. A qualifying small business can use the payroll tax election even if it operates at a loss. However, it must generate an eligible research credit and have applicable employer payroll tax liabilities against which the credit can be applied."}]
 ---
 A framing contractor in St. George hires eight carpenters and spends a year developing a prefabricated wall-panel system designed to withstand the challenges of 110-degree job sites. She tests adhesives, modifies the panel design three times, and works through several technical problems before finding a workable solution. Despite the investment, her company finishes the year with a tax loss.
 
@@ -352,3 +353,27 @@ Even if your business is not yet profitable, you may be able to use qualifying r
 Kinexus CPAs & Advisors can help evaluate your business activities, review your job-costing and payroll records, and determine whether pursuing the R&D tax credit makes financial sense.
 
 [Contact Kinexus CPAs & Advisors](/contact) to discuss an R&D credit eligibility review and identify potential tax savings for your construction business.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Can a contractor with no taxable profit still claim the R&D tax credit?**
+A: Yes. A qualified small business may elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes, even when it has no federal income tax liability. The business must satisfy the IRS gross-receipts and business-history requirements and conduct qualified research activities.
+
+**Q: Which payroll taxes can the R&D credit offset?**
+A: The credit first offsets the employer's 6.2% share of Social Security tax, subject to a $250,000-per-quarter limit. Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax. It cannot reduce employee payroll tax withholding or the additional 0.9% Medicare tax.
+
+**Q: When can a contractor begin using the payroll tax credit?**
+A: The credit becomes available in the first calendar quarter beginning after the business files its income tax return containing the Form 6765 payroll tax election. The business then claims the available credit using Form 8974 attached to its quarterly Form 941.
+
+**Q: Does a construction company need a research department to qualify?**
+A: No. The IRS does not require a dedicated research department or a particular job title. A contractor may qualify through engineering, material development, prototype testing, or improvements to construction processes, provided the activities meet the four-part research test.
+
+**Q: Can routine construction improvements qualify for the R&D credit?**
+A: Not necessarily. Routine construction work, standard quality-control testing, cosmetic changes, and ordinary modifications generally do not qualify. The business must demonstrate technical uncertainty and a process of experimentation intended to resolve that uncertainty.
+
+**Q: Can a contractor claim the R&D credit for work performed on a customer's project?**
+A: Potentially. However, the business must evaluate whether the research is funded by the customer or another party. The contractor's financial risk and rights to the research results are important considerations. Contract terms should be reviewed before including the associated expenses.
+
+**Q: Does the R&D tax credit require a profitable business?**
+A: No. A qualifying small business can use the payroll tax election even if it operates at a loss. However, it must generate an eligible research credit and have applicable employer payroll tax liabilities against which the credit can be applied.
