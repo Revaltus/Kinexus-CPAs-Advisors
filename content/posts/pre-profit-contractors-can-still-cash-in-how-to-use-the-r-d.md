@@ -9,7 +9,7 @@ image: contractor-reviewing-plans-on-job-site.jpg
 image_alt: "Contractor reviewing building plans on a residential construction site"
 tags: ["R&D tax credit", "Construction tax", "Payroll tax", "Startups"]
 meta_title: "R&D Tax Credit Payroll Tax Offset for Contractors | Kinexus"
-meta_description: "Pre-profit contractors can apply the R&D tax credit against employer payroll taxes. Learn the $5M test, Form 6765 election, Form 8974 and Section 174A changes in St. George."
+meta_description: "Pre-profit contractors can apply the R&D tax credit against employer payroll taxes. Learn the $5M test, Form 6765 election, Form 8974 and Section 174A changes."
 target_keyword: "R&D credit payroll tax offset construction"
 secondary_keywords: ["R&D tax credit for contractors", "qualified small business payroll tax election", "Form 6765 payroll tax election", "construction startup tax credits"]
 canonical_url: https://stgcpas.com/resources/pre-profit-contractors-can-still-cash-in-how-to-use-the-r-d
