@@ -1,45 +1,95 @@
 ---
-title: "How Pre-Profit Contractors Use the R&D Credit Against Payroll Taxes"
+title: "How Pre-Profit Contractors Can Use the R&D Tax Credit to Reduce Payroll Taxes"
 slug: pre-profit-contractors-can-still-cash-in-how-to-use-the-r-d
 date: 2026-10-20
 content_type: blog
 author: "Shawn T. Gubler, CPA, CTC, MAcc"
-excerpt: "Construction startups with little or no income tax can still turn the federal R&D credit into cash by offsetting employer payroll taxes. Here is who qualifies, what counts, and how the forms work."
+excerpt: "Qualified small construction businesses with little or no income tax can apply part of the federal R&D tax credit against employer payroll taxes. Here is who qualifies, what counts, and how the forms and timing work."
 image: contractor-reviewing-plans-on-job-site.jpg
 image_alt: "Contractor reviewing building plans on a residential construction site"
 tags: ["R&D tax credit", "Construction tax", "Payroll tax", "Startups"]
-meta_title: "R&D Credit Payroll Tax Offset for Construction | Kinexus"
-meta_description: "Construction startups with no taxable income can still use the R&D credit. Learn the $5M test, Form 6765 election, and Form 8974 payroll offset in St George."
+meta_title: "R&D Tax Credit Payroll Tax Offset for Contractors | Kinexus"
+meta_description: "Pre-profit contractors can apply the R&D tax credit against employer payroll taxes. Learn the $5M test, Form 6765 election, Form 8974 and Section 174A changes in St. George."
 target_keyword: "R&D credit payroll tax offset construction"
 secondary_keywords: ["R&D tax credit for contractors", "qualified small business payroll tax election", "Form 6765 payroll tax election", "construction startup tax credits"]
 canonical_url: https://stgcpas.com/resources/pre-profit-contractors-can-still-cash-in-how-to-use-the-r-d
 schema_markup: "BlogPosting"
-answer_block: "Yes. A contractor with under $5 million in gross receipts and first receipts within the last five tax years can elect on Form 6765 to apply up to $500,000 of R&D credit against employer payroll taxes ($250,000 against Social Security and $250,000 against Medicare). The credit is claimed quarterly on Form 8974 with Form 941, starting with the first quarter after the income tax return is filed."
+answer_block: "Yes. A contractor with under $5 million in gross receipts and no receipts before the five-tax-year period ending with the current year can elect on Form 6765 to apply up to $500,000 of its federal R&D credit against employer payroll taxes. The credit first offsets employer Social Security tax (up to $250,000 per quarter), then employer Medicare tax. It is claimed quarterly on Form 8974 with Form 941, starting with the first quarter that begins after the income tax return is filed."
 ---
-A framing contractor in St George hires eight carpenters and spends a year figuring out how to prefab wall panels that hold up on 110-degree job sites. She tests adhesives, reworks the panel design three times, and still finishes the year with a loss. Her bookkeeper tells her the R&D credit is off the table because she owes no income tax. That advice is out of date. A qualified small business can elect to apply the credit against its payroll taxes, which means a loss-making year can still produce a real reduction in what you send the IRS each quarter.
+A framing contractor in St. George hires eight carpenters and spends a year developing a prefabricated wall-panel system designed to withstand the challenges of 110-degree job sites. She tests adhesives, modifies the panel design three times, and works through several technical problems before finding a workable solution. Despite the investment, her company finishes the year with a tax loss.
 
-This post covers who qualifies, how much you can offset, what counts as research in construction, and the exact forms and timing involved.
+Her bookkeeper tells her the research and development (R&D) tax credit is unavailable because the business owes no federal income tax.
 
-## Why a loss does not shut you out of the credit
+That advice may be costing her money.
 
-The regular R&D credit reduces income tax. If you have none, the credit carries forward and may sit for years. Congress created a second route for young companies: elect to use part of the credit against the employer's share of payroll tax instead. The credit is claimed on the income tax return, but the cash benefit shows up on your quarterly Form 941.
+Under federal tax law, certain qualified small businesses can elect to apply a portion of their federal R&D tax credit against the employer's share of Social Security and Medicare payroll taxes. This provision can benefit qualifying startup businesses that are investing in research and development but have little or no income tax liability.
 
-For a contractor, that distinction matters. Construction startups often run lean in the first few years because of equipment financing, bonding costs, retainage tied up on open jobs, and owner pay that gets reinvested. Taxable income is low or negative, yet payroll is real and the Social Security bill arrives every quarter. The payroll election matches the credit to the tax you are actually paying.
+For construction companies, this creates an opportunity to recover some of the costs associated with developing innovative building methods, materials, products, and processes, even during an unprofitable year.
 
-## Who counts as a qualified small business
+Here's what contractors need to know about eligibility, qualifying research activities, potential savings, documentation, and the steps involved in claiming the credit.
 
-Two tests apply for the tax year you are electing:
+## Why a Business Can Claim the R&D Credit Even With a Tax Loss
 
-- **Gross receipts under $5 million.** This is measured for the current tax year. Related entities under common control are generally aggregated, so a contractor with a separate equipment LLC or a sister company needs to add those receipts together.
-- **Early in your revenue history.** You cannot have had gross receipts in any tax year before the five-year period that ends with the current year. A contractor whose first receipts came in 2021 can still qualify for 2025. One that billed its first job in 2019 cannot.
+The federal R&D tax credit, established under Internal Revenue Code Section 41, traditionally helps businesses reduce their federal income tax liability.
 
-The business must also have qualified research expenses, which is the part contractors tend to underestimate. You can make the election for up to five tax years, so a company that qualifies for a few years in a row can repeat it each time.
+However, a business with little or no income tax liability may not be able to use the credit immediately. Unused research credits generally can be carried forward for up to 20 years.
 
-## How much you can offset, and against what
+Congress created an additional opportunity for qualifying small businesses through the payroll tax credit election. This allows eligible businesses to apply a portion of their research credit against certain employer payroll tax obligations instead of waiting until they generate taxable income.
 
-The annual cap is $500,000, but it is split in two. Up to $250,000 applies against the employer's 6.2 percent share of Social Security tax. Since the Inflation Reduction Act, an additional $250,000 can apply against the employer's 1.45 percent share of Medicare tax, for tax years beginning after 2022.
+The election is particularly valuable for young construction companies investing in new technologies, materials, engineering solutions, and building processes.
 
-Most small contractors will not come close to the cap. Offsetting $250,000 of Social Security tax would take roughly $4 million of annual W-2 wages. The real limit for most companies is the size of the credit itself, and then the quarterly payroll tax available to absorb it.
+A contractor may have substantial payroll expenses while operating at a loss because of equipment financing, startup costs, bonding expenses, retainage, or investments in developing new construction methods.
+
+The payroll tax election provides a way to potentially turn qualifying research expenditures into a more immediate financial benefit.
+
+**The important distinction:** A business does not have to be profitable to qualify for the payroll tax election. However, it must satisfy the IRS definition of a qualified small business and conduct activities that meet the requirements for qualified research.
+
+The payroll credit reduces eligible employer payroll tax obligations. It is not an unrestricted cash refund, and it cannot eliminate payroll taxes that belong to employees.
+
+## Who Qualifies as a Qualified Small Business?
+
+The IRS establishes two primary requirements for a business to qualify for the R&D payroll tax election.
+
+**1. Less than $5 million in gross receipts**
+
+The business must have less than $5 million in gross receipts for the tax year in which it is claiming the credit.
+
+**2. A qualifying business history**
+
+The business cannot have had gross receipts in any tax year before the five-tax-year period ending with the current tax year.
+
+For example, a contractor whose first gross receipts occurred in 2022 may qualify for the 2025 tax year, assuming the other requirements are satisfied.
+
+A contractor that first generated gross receipts in 2019 would not qualify for the 2025 election because receipts occurred before the applicable five-year period.
+
+There are additional considerations for businesses operating through multiple entities. Related businesses, predecessors, and entities under common control may need to aggregate their gross receipts when determining eligibility.
+
+The rules also account for the business's legal and tax structure. Corporations, S corporations, partnerships, sole proprietors, and certain other taxpayers may qualify when the applicable requirements are satisfied. Tax-exempt organizations under Section 501 are excluded.
+
+**How long can a business use the election?**
+
+A qualified small business can make the payroll tax election for up to five tax years. This is a cumulative limit, not a new five-year period every time a business makes an election.
+
+The IRS will not permit an election for a tax year if the business has already made the election for five or more preceding tax years.
+
+The business must independently satisfy the eligibility requirements for each tax year.
+
+## How Much Can Contractors Offset Through the Payroll Tax Credit?
+
+For tax years beginning after December 31, 2022, a qualified small business can elect to apply up to $500,000 of its federal R&D credit against eligible employer payroll taxes.
+
+The credit is applied in the following order:
+
+- **Employer Social Security tax:** The credit first offsets the employer's 6.2% share of Social Security tax, subject to a maximum offset of $250,000 per calendar quarter.
+- **Employer Medicare tax:** Any remaining eligible credit can then offset the employer's 1.45% share of Medicare tax for that quarter.
+
+There is no separate $250,000 annual Medicare allocation. The $500,000 limit is the maximum amount that can be elected for the tax year, while the $250,000 Social Security limitation applies separately to each quarter.
+
+The credit cannot be applied against the employee's share of Social Security or Medicare taxes, federal income tax withholding, or the additional 0.9% Medicare tax withheld from certain higher-paid employees.
+
+The actual benefit depends on the qualified research credit generated, the amount elected, and the employer payroll tax liabilities available to absorb the credit.
+
+Any unused payroll tax credit carries forward to subsequent quarters.
 
 ## A worked example for a St George design-build contractor
 
