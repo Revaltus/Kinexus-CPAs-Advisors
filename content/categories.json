@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "c-5109a7",
+      "name": "Construction",
+      "slug": "construction"
+    },
+    {
+      "id": "c-beb4ff",
+      "name": "Restaurants",
+      "slug": "restaurants"
+    },
+    {
+      "id": "c-97037d",
+      "name": "Entrepreneurs",
+      "slug": "entrepreneurs"
+    },
+    {
+      "id": "c-adc88c",
+      "name": "Real Estate",
+      "slug": "real-estate"
+    },
+    {
+      "id": "c-afa194",
+      "name": "Medical Professionals",
+      "slug": "medical-professionals"
+    },
+    {
+      "id": "c-edb67b",
+      "name": "Service-Based Businesses",
+      "slug": "service-based-businesses"
+    },
+    {
+      "id": "c-c944da",
+      "name": "Real Estate Investors",
+      "slug": "real-estate-investors"
+    },
+    {
+      "id": "c-5be280",
+      "name": "Entrepreneurs / Startups",
+      "slug": "entrepreneurs-startups"
+    },
+    {
+      "id": "c-819a51",
+      "name": "Service-Based Businesses (consultants, agencies, coaches, staffing, IT)",
+      "slug": "service-based-businesses-consultants-agencies-coaches-staffing-it"
+    },
+    {
+      "id": "c-377380",
+      "name": "Nonprofits",
+      "slug": "nonprofits"
+    }
+  ]
+}
