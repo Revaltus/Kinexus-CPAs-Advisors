@@ -251,33 +251,104 @@ This helps separate qualifying research expenses from ordinary construction cost
 
 Good bookkeeping is not a substitute for a qualified R&D study, but it can make identifying and supporting eligible expenses considerably easier.
 
-## The forms and timing, step by step
+## The Forms and Timing: How Contractors Claim the Credit
 
-1. **Calculate the credit on Form 6765.** The payroll election is made in the payroll tax election section of [Form 6765](https://www.irs.gov/forms-pubs/about-form-6765), attached to a timely filed income tax return, including extensions. It cannot be made on an amended return, so the first filing has to include it.
-2. **Specify the amount.** You elect a dollar amount up to the lesser of the credit and the $500,000 cap. Any credit you do not elect carries forward for use against income tax later.
-3. **File Form 8974 each quarter.** Attach [Form 8974](https://www.irs.gov/forms-pubs/about-form-8974) to your Form 941 for every quarter you apply the credit. It calculates how much you can use that quarter, limited by your employer Social Security tax for that quarter. Any credit left over can then be applied against that quarter's employer Medicare tax, up to the separate $250,000 Medicare limit.
-4. **Start in the right quarter.** The credit applies beginning with the first quarter that starts after your income tax return is filed. File in March and Q2 is your first quarter. File on extension in October and the first benefit may not arrive until January.
+Claiming the payroll tax credit requires coordination between the business income tax return and quarterly payroll tax filings.
 
-That last point is why timing matters. A contractor who files early on a loss year can begin recovering cash six months sooner than one who waits until the extension deadline. The deduction rules for research costs also changed. Under new Section 174A, domestic research expenses can again be deducted in the year they are incurred for tax years beginning after December 31, 2024, instead of being amortized over five years. Foreign research is still amortized over 15 years, and the credit can interact with the deduction through the Section 280C rules. Some smaller businesses can also elect to apply the change to earlier years. We model the income tax side alongside the credit rather than treating the credit in isolation. Our [business tax planning](/what-we-do/business-tax) work covers both.
+**Step 1: Calculate the research credit using Form 6765.**
 
-## Where this fits for St George contractors
+The business calculates its federal R&D credit using IRS [Form 6765](https://www.irs.gov/forms-pubs/about-form-6765), Credit for Increasing Research Activities.
 
-Southern Utah's construction market has produced a steady stream of young builders, specialty subs, and design-build firms, many of which are still inside that five-year window. Desert heat, expansive and caliche soils, hillside lots, and demand for energy-efficient envelopes give them plenty of reasons to experiment. Peter Williams, EA, MAcc, who works with contractors on WIP schedules and percentage-of-completion accounting, sees the same pattern: the work that earns the credit is already happening on the jobsite, and it just is not being captured. You can read more about how we serve [construction businesses](/who-we-serve/construction) in St George.
+The business must identify qualifying research expenses, determine the appropriate credit calculation method, and complete Section D if it intends to make the payroll tax election.
 
-## Common Questions
+Partnerships and S corporations make the payroll tax election at the entity level. Other qualifying business structures generally must complete Form 3800 before completing Section D of Form 6765.
 
-**Can a contractor with no profit still claim the R&D credit?**
+**Step 2: Make the payroll tax election on the original tax return.**
 
-Yes, if it qualifies as a small business. With under $5 million in gross receipts and first receipts within the past five tax years, you can elect to apply up to $500,000 of credit against employer payroll taxes. Income tax liability is not required.
+The payroll tax election must be made on a timely filed original income tax return, including extensions.
 
-**Which payroll taxes can the credit offset?**
+It cannot be made for the first time on an amended return.
 
-The employer share of Social Security tax (6.2 percent) first, up to $250,000. Under the Inflation Reduction Act, up to $250,000 more can apply to the employer share of Medicare tax (1.45 percent) for tax years beginning after 2022. The credit never reduces withheld employee taxes.
+The business specifies the portion of its research credit it wants to apply against payroll taxes, up to the $500,000 limit, subject to the other applicable credit limitations.
 
-**When does the payroll offset start?**
+The election is subject to the five-tax-year limitation described earlier and generally cannot be revoked without IRS consent.
 
-It begins with the first quarter that starts after you file the income tax return containing the Form 6765 election. A return filed in March 2026 starts the credit with the quarter beginning April 1, 2026. You then claim it quarterly on Form 8974 attached to Form 941.
+**Step 3: Begin applying the credit after filing the income tax return.**
 
-## Get a free credit eligibility review
+The payroll tax credit becomes available beginning with the first calendar quarter that starts after the business files the income tax return containing the election.
 
-If you run a construction company in St George that is under five years old or still growing out of startup mode, send us your last two years of job costing and payroll reports and we will tell you whether the payroll election is worth pursuing, and roughly how much it could return. [Contact Kinexus CPAs & Advisors](/contact) to schedule your free R&D credit eligibility review.
+For example:
+
+- **Income tax return filed March 2026:** First eligible quarter is Q2 2026.
+- **Income tax return filed October 2026:** First eligible quarter is Q1 2027.
+
+The filing date, rather than the date the return is prepared or the tax year being claimed, determines when the payroll credit becomes available.
+
+**Step 4: Claim the credit on Form 8974 and Form 941.**
+
+The business completes IRS [Form 8974](https://www.irs.gov/forms-pubs/about-form-8974), Qualified Small Business Payroll Tax Credit for Increasing Research Activities, and attaches it to its quarterly Form 941.
+
+Form 8974 calculates the amount available to offset the employer's Social Security and Medicare taxes for the quarter.
+
+The credit first reduces employer Social Security tax, subject to the $250,000 quarterly limit, and then reduces employer Medicare tax.
+
+If the credit cannot be fully used, the remaining balance generally carries forward to subsequent quarters.
+
+The business must continue following the applicable Form 8974 and Form 941 instructions when reporting the credit.
+
+## Another Important Tax Change: Section 174A and Domestic Research Expenses
+
+The federal tax treatment of research and experimental expenses also changed under the One Big Beautiful Bill Act, enacted July 4, 2025.
+
+Previously, Section 174 generally required businesses to capitalize and amortize research and experimental expenses over five years for domestic research and 15 years for foreign research.
+
+New Section 174A restores the ability to deduct qualifying domestic research and experimental expenses in the year they are incurred for tax years beginning after December 31, 2024.
+
+Businesses may also elect to capitalize and amortize qualifying domestic research expenses over a period of at least 60 months, beginning with the month in which the taxpayer first realizes benefits from the expenditures.
+
+Foreign research expenditures remain subject to the 15-year amortization requirement.
+
+**What about research expenses from 2022 through 2024?**
+
+The legislation also provides transition rules for previously capitalized domestic research expenses.
+
+Businesses generally may elect to recover their remaining unamortized domestic research expense balances from the 2022 through 2024 tax years in either of two ways:
+
+- Deduct the remaining balance in full during the first tax year beginning after December 31, 2024.
+- Deduct the remaining balance ratably over the first two tax years beginning after December 31, 2024.
+
+For calendar-year businesses, these options generally mean recovering the balance in 2025 or spreading the deduction across 2025 and 2026.
+
+Certain eligible small businesses also had the opportunity to elect retroactive application of the new Section 174A treatment to qualifying prior tax years beginning after December 31, 2021, and before January 1, 2025.
+
+The deadline for this retroactive election was July 6, 2026. That deadline has passed.
+
+These changes are important because the income tax deduction for research expenses and the R&D tax credit are separate tax benefits with coordination requirements under Section 280C.
+
+Businesses should evaluate their Section 174A deductions, research credit, and applicable Section 280C election together rather than treating them as unrelated tax decisions.
+
+**An important distinction:** Not every expense deductible under Section 174A automatically qualifies for the Section 41 research credit. The research must independently satisfy the applicable qualified research requirements.
+
+## Why St. George Contractors Should Evaluate the R&D Credit
+
+Southern Utah's construction industry presents opportunities for contractors to develop new materials, processes, and engineering solutions.
+
+Extreme summer temperatures, expansive soils, challenging terrain, energy-efficiency requirements, and the growing use of prefabricated construction can create technical challenges that require experimentation and innovative problem-solving.
+
+The research credit is not limited to large construction companies or businesses with dedicated research departments.
+
+A smaller contractor developing a new building process or testing an innovative construction method may qualify if the activities satisfy the IRS requirements and the business can substantiate its expenses.
+
+Peter Williams, EA, MAcc, works with contractors on financial reporting, work-in-progress schedules, and percentage-of-completion accounting. Identifying research-related costs within those financial records can help contractors recognize potential tax-planning opportunities they might otherwise overlook.
+
+The key is recognizing qualifying activities early enough to document them properly and incorporate them into the company's tax planning.
+
+## Determine Whether Your Construction Business Qualifies for the R&D Credit
+
+If you operate a construction company in St. George or throughout Southern Utah, your investments in new construction methods, materials, and technical solutions may create opportunities for federal R&D tax credits.
+
+Even if your business is not yet profitable, you may be able to use qualifying research credits to reduce your employer payroll tax obligations.
+
+Kinexus CPAs & Advisors can help evaluate your business activities, review your job-costing and payroll records, and determine whether pursuing the R&D tax credit makes financial sense.
+
+[Contact Kinexus CPAs & Advisors](/contact) to discuss an R&D credit eligibility review and identify potential tax savings for your construction business.
