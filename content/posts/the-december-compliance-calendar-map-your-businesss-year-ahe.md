@@ -16,6 +16,7 @@ secondary_keywords: ["annual state report deadlines", "business insurance renewa
 canonical_url: https://stgcpas.com/resources/the-december-compliance-calendar-map-your-businesss-year-ahe
 schema_markup: "FAQPage"
 answer_block: "A business compliance calendar is one schedule listing every recurring date your company must meet, including tax filings, state renewals, licenses, insurance, and contract notice windows. Business owners should build it in December, starting insurance reviews 60 to 90 days before renewal and confirming license and Utah entity renewal dates. Include a named owner for each item."
+faq_block: [{"question":"What is a business compliance calendar?","answer":"It is a single schedule of every recurring date your company must meet: tax filings, state renewals, licenses, insurance and contract renewals, and payroll deadlines. It should also include lender reviews and lease notice windows. The point is to see conflicts and gaps in one place, with a named owner for each item."},{"question":"When should a business owner start a business insurance renewal review?","answer":"Start 60 to 90 days before each policy expires. That is enough time to correct revenue and payroll figures, get competing quotes, and ask your agent about changes in coverage. Workers' comp is worth checking against your payroll by class code, since premiums are audited after the term ends."},{"question":"What are the annual state report deadlines for a Utah business?","answer":"Utah entities renew annually with the state, generally by the end of the month in which they were originally registered. Check your entity's anniversary month on the state business portal, then set a reminder 30 days ahead. Each entity you own has its own date, so a multi-entity owner may have several."},{"question":"Who should own the compliance calendar?","answer":"One person inside the company should own it, typically the office manager or controller, with your CPA reviewing the tax and financial dates. Shared ownership usually means no ownership. The owner of the calendar should have the authority to chase documents and make sure renewals are actually completed."}]
 ---
 Most business owners know their big tax dates. It's the quiet ones that cost money: an insurance policy that renewed at a higher rate because nobody asked for quotes, an equipment lease that rolled into another 36 months, a license that lapsed the week a big contract was due. None of these is a hard problem. They are calendar problems, and December is the best month to solve them, because you are already looking back at the year and forward to the next one.
 
@@ -128,3 +129,18 @@ One person inside the company should own it, typically the office manager or con
 ## Set up your calendar with Kinexus
 
 If you want a compliance calendar built around your insurance, licenses, contracts, and tax dates, [contact Kinexus CPAs & Advisors](/contact) and we will go through it with you in December, before the new year starts.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What is a business compliance calendar?**
+A: It is a single schedule of every recurring date your company must meet: tax filings, state renewals, licenses, insurance and contract renewals, and payroll deadlines. It should also include lender reviews and lease notice windows. The point is to see conflicts and gaps in one place, with a named owner for each item.
+
+**Q: When should a business owner start a business insurance renewal review?**
+A: Start 60 to 90 days before each policy expires. That is enough time to correct revenue and payroll figures, get competing quotes, and ask your agent about changes in coverage. Workers' comp is worth checking against your payroll by class code, since premiums are audited after the term ends.
+
+**Q: What are the annual state report deadlines for a Utah business?**
+A: Utah entities renew annually with the state, generally by the end of the month in which they were originally registered. Check your entity's anniversary month on the state business portal, then set a reminder 30 days ahead. Each entity you own has its own date, so a multi-entity owner may have several.
+
+**Q: Who should own the compliance calendar?**
+A: One person inside the company should own it, typically the office manager or controller, with your CPA reviewing the tax and financial dates. Shared ownership usually means no ownership. The owner of the calendar should have the authority to chase documents and make sure renewals are actually completed.
