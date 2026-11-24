@@ -50,6 +50,11 @@
       "id": "c-377380",
       "name": "Nonprofits",
       "slug": "nonprofits"
+    },
+    {
+      "id": "c-1ae848",
+      "name": "Insights",
+      "slug": "insights"
     }
   ]
 }
