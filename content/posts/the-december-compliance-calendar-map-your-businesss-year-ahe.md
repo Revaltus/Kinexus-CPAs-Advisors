@@ -5,10 +5,10 @@ date: 2026-11-24
 content_type: blog
 author: "Shawn T. Gubler, CPA, CTC, MAcc"
 excerpt: "Insurance renewals, license dates, auto-renewing contracts, and state filings are easy to miss. Build one calendar in December so January starts with clear dates."
-image: contractor-planning-year-ahead-calendar.jpg
+image: adobestock-1860660990.png
 image_alt: "Business owner reviewing a wall calendar and paperwork while planning the year ahead"
 tags: ["Small Business", "Year-End Planning", "Compliance"]
-categories: [c-5109a7]
+categories: [c-1ae848]
 meta_title: "Business Compliance Calendar for Owners | Year-End Planning"
 meta_description: "Build a business compliance calendar for your company: insurance, licenses, contracts, state reports, and tax dates, set before January."
 target_keyword: "business compliance calendar"
@@ -49,8 +49,6 @@ Here is a simple illustration. Say a 12-person company takes in $3.2 million in 
 ## Pull your contracts and leases before they renew themselves
 
 Auto-renewals are where small, forgettable agreements turn into multi-year commitments. Build a short inventory in December and note the notice window for each one.
-
-![Business owner reading through a contract at a desk before signing](/content-assets/reviewing-contract-documents-desk.jpg)
 
 Look at:
 
