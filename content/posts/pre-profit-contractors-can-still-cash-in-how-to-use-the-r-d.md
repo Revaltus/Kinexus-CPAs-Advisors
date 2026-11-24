@@ -5,9 +5,10 @@ date: 2026-10-20
 content_type: blog
 author: "Shawn T. Gubler, CPA, CTC, MAcc"
 excerpt: "Qualified small construction businesses with little or no income tax can apply part of the federal R&D tax credit against employer payroll taxes. Here is who qualifies, what counts, and how the forms and timing work."
-image: contractor-reviewing-plans-on-job-site.jpg
+image: kinexus-use-rd-credit-against-payroll-taxes.png
 image_alt: "Contractor reviewing building plans on a residential construction site"
 tags: ["R&D tax credit", "Construction tax", "Payroll tax", "Startups"]
+categories: [c-5109a7]
 meta_title: "R&D Tax Credit Payroll Tax Offset for Contractors | Kinexus"
 meta_description: "Pre-profit contractors can apply the R&D tax credit against employer payroll taxes. Learn the $5M test, Form 6765 election, Form 8974 and Section 174A changes."
 target_keyword: "R&D credit payroll tax offset construction"
